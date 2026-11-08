@@ -6,7 +6,7 @@ import pandas as pd
 
 app = FastAPI(title="ML Pipeline API")
 
-# 1. تحديد مكان الملف الحالي
+
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 model_path = os.path.join(BASE_DIR, "mlruns", "0", "models", "m-d5046dc3baa347a79fe5d2e546d90096", "artifacts")

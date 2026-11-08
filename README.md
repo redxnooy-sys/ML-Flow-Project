@@ -1,4 +1,4 @@
-# 🌸 Iris Flower Classifier: My ML Deployment Journey
+# 🌸 Iris Flower Classifier
 
 Hey there!  Welcome to my machine learning deployment project. 
 
